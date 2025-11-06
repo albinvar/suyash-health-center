@@ -1,0 +1,52 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "machine": "Our Machine",
+    "products": "Products",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "footer": {
+    "about": {
+      "title": "About Us",
+      "description": "Suyash Health Care Centre is dedicated to providing excellence in healthcare. We offer top-quality medical services to our community."
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions",
+      "careers": "Careers"
+    },
+    "contact": {
+      "title": "Contact Information",
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email"
+    },
+    "hours": {
+      "title": "Business Hours",
+      "weekdays": "Monday - Friday: 9:00 AM - 8:00 PM",
+      "saturday": "Saturday: 9:00 AM - 6:00 PM",
+      "sunday": "Sunday: 10:00 AM - 4:00 PM"
+    },
+    "social": {
+      "title": "Connect With Us",
+      "followUs": "Follow Us"
+    },
+    "copyright": "© 2024 Suyash Health Care Centre. All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to Suyash Health Care Centre",
+      "subtitle": "Quality Healthcare for Your Family",
+      "cta": "Learn More"
+    }
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "getStarted": "Get Started",
+    "readMore": "Read More"
+  }
+}
